@@ -1,3 +1,10 @@
 .main .img-responsive {
     margin-bottom: 30px;
 }
+
+h6{
+	color: green;
+	text-decoration: underline;
+	text-align: right;
+
+}
